@@ -15,8 +15,8 @@
 
 ## 属性 Likes & Attributes
 
-- 性取向泛性恋, 性别存疑(?)
-    - Sexual orientation is Pansexual, gender is uncertain(?)
+- 泛性恋, 性别存疑(?)
+    - Pansexual, gender is uncertain(?)
 
 ## 开发概况 Development
 
@@ -54,22 +54,20 @@
 ## 我的仓库 Repository
 
 [![Blog](https://img.shields.io/badge/Blog-Website-blue)](https://qhlqy.github.io/415.github.io/)
-
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QHLQY/QHLQY/output/github-contribution-grid-snake-dark.svg" />
 	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QHLQY/QHLQY/output/github-contribution-grid-snake.svg">
 	<img src="src/snake-light.svg" />
 </picture>
 
-## 一些链接 Links
+## 链接 Links
 
 [![个人网站](https://img.shields.io/badge/QHLQY-Website-pink)](https://qhlqy.github.io/415.github.io/)
 
 
-## 联系方式 Contact me
+## 联系我 Contact me
 
-- 平台账号 Account in other platforms
-  
+- 账号 Account
     - E-mail : [xiemjang@outlook.com](mailto:xiemjang@outlook.com)
     - BiliBili : [QHLQY](https://space.bilibili.com/1592281401)
     - Twitter(X) : [QHLQY](https://x.com/QHLQY0512)
