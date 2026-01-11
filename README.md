@@ -25,13 +25,33 @@
 - 正在学习HTML/CSS
     - I am learning HTML/CSS.
 
-## 📊 GitHub Stats Test
+## GitHub 统计 Stats
 
-<img src="https://github-readme-stats-alpha-ten-96.vercel.app/api?username=QHLQY&show_icons=true" />
+<picture>
+  <source
+    srcset="https://github-readme-stats-alpha-ten-96.vercel.app/api?username=QHLQY&show_icons=true&theme=github_dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-alpha-ten-96.vercel.app/api?username=QHLQY&show_icons=true&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats-alpha-ten-96.vercel.app/api?username=QHLQY&show_icons=true&hide_border=true" />
+</picture>
 
 <br/>
 
-<img src="https://github-readme-stats-alpha-ten-96.vercel.app/api/top-langs/?username=QHLQY&layout=compact" />
+<picture>
+  <source
+    srcset="https://github-readme-stats-alpha-ten-96.vercel.app/api/top-langs/?username=QHLQY&layout=compact&theme=github_dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-alpha-ten-96.vercel.app/api/top-langs/?username=QHLQY&layout=compact&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats-alpha-ten-96.vercel.app/api/top-langs/?username=QHLQY&layout=compact&hide_border=true" />
+</picture>
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QHLQY/QHLQY/output/github-contribution-grid-snake-dark.svg" />
