@@ -8,8 +8,6 @@
 [![Bilibili](https://img.shields.io/badge/QHLQY-pink.svg?logo=Bilibili)](https://space.bilibili.com/1592281401)
 ![Name](https://img.shields.io/badge/QHLQY-七海落千羽-blue)
 
-
-
 - 我是七海落千羽
     - I'm QHLQY.
 - 来自江苏
@@ -17,7 +15,7 @@
 
 ## 属性 Likes & Attributes
 
-- 性取向为泛性恋, 性别存疑(?)
+- 性取向泛性恋, 性别存疑(?)
     - Sexual orientation is Pansexual, gender is uncertain(?)
 
 ## 开发概况 Development
@@ -53,19 +51,19 @@
   <img src="https://github-readme-stats-alpha-ten-96.vercel.app/api/top-langs/?username=QHLQY&layout=compact&hide_border=true" />
 </picture>
 
+## 我的仓库 Repository
+
+[![Blog](https://img.shields.io/badge/Blog-Website-blue)](https://qhlqy.github.io/415.github.io/)
+
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QHLQY/QHLQY/output/github-contribution-grid-snake-dark.svg" />
 	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QHLQY/QHLQY/output/github-contribution-grid-snake.svg">
 	<img src="src/snake-light.svg" />
 </picture>
 
-## 我的仓库 Repository
-
-[![Blog](https://img.shields.io/badge/Blog-Website-blue)](https://qhlqy.github.io/415.github.io/)
-
 ## 一些链接 Links
 
-[![个人网站](https://img.shields.io/badge/QHLQY-pink.svg?logo=个人网站)](https://qhlqy.github.io/415.github.io/)
+[![个人网站](https://img.shields.io/badge/QHLQY-Website-pink)](https://qhlqy.github.io/415.github.io/)
 
 
 ## 联系方式 Contact me
