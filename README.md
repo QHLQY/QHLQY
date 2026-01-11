@@ -28,8 +28,8 @@
 
 - 我是七海落千羽
     - I'm QHLQY.
-- 来自江苏的neko
-    - A cat/neko from Jiangsu Province, China.
+- 来自江苏
+    - From Jiangsu Province, China.
 
 ## 属性 Likes & Attributes
 
@@ -47,8 +47,8 @@
 <!--END_SECTION:waka-->
 
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QHLQY/QHLQY415/output/github-contribution-grid-snake-dark.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QHLQY/QHLQY415/output/github-contribution-grid-snake.svg">
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QHLQY/QHLQY/output/github-contribution-grid-snake-dark.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QHLQY/QHLQY/output/github-contribution-grid-snake.svg">
 	<img src="src/snake-light.svg" />
 </picture>
 
