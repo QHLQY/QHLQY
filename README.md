@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2500&pause=100&color=F5ABB9&multiline=true&width=550&height=70&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%83%E6%B5%B7%E8%90%BD%E5%8D%83%E7%BE%BD" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=100&color=F5ABB9&multiline=true&width=435&lines=Hello%2Cthis+is+QHLQY" alt="Typing SVG" /></a>
 
-## 个人简介 Profile
+## Profile
 
 [![Steam](https://img.shields.io/badge/QHLQY-black.svg?logo=Steam)](https://steamcommunity.com/profiles/76561199497331519)
 [![Minecraft](https://img.shields.io/badge/Minecraft-QHLQY-green.svg?labelColor=green&color=yellowgreen)](https://namemc.com/profile/QHLQY)
@@ -13,17 +13,17 @@
 - 来自江苏
     - From Jiangsu Province, China.
 
-## 属性 Likes & Attributes
+## Likes & Attributes
 
-- 泛性恋, 性别存疑(?)
-    - Pansexual, gender is uncertain(?)
+- MTF🏳️‍⚧️ 正在HRT
+    - MTF🏳️‍⚧️,HRTing
 
-## 开发概况 Development
+## Development
 
 - 正在学习HTML/CSS
     - I am learning HTML/CSS.
 
-## GitHub 统计 Stats
+## GitHub Stats
 
 <picture>
   <source
@@ -51,7 +51,7 @@
   <img src="https://github-readme-stats-alpha-ten-96.vercel.app/api/top-langs/?username=QHLQY&layout=compact&hide_border=true" />
 </picture>
 
-## 我的仓库 Repository
+## Repository
 
 [![Blog](https://img.shields.io/badge/Blog-Website-blue)](https://qhlqy.github.io/415.github.io/)
 <picture>
@@ -60,12 +60,12 @@
 	<img src="src/snake-light.svg" />
 </picture>
 
-## 链接 Links
+## Links
 
 [![个人网站](https://img.shields.io/badge/QHLQY-Website-pink)](https://qhlqy.github.io/415.github.io/)
 
 
-## 联系我 Contact me
+## Contact me
 
 - 账号 Account
     - E-mail : [xiemjang@outlook.com](mailto:xiemjang@outlook.com)
