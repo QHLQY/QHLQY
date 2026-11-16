@@ -62,7 +62,9 @@
 
 ## Links
 
-[![个人网站](https://img.shields.io/badge/QHLQY-Website-pink)](https://qhlqy.github.io/415.github.io/)
+[![个人网站](https://img.shields.io/badge/QHLQY-Website-pink)](https://qhlqy.github.io)
+
+[![个人网站](https://img.shields.io/badge/QHLQY-Website-blue)](https://eternitv.vercel.app)
 
 ## Contact me
 
