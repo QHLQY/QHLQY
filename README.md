@@ -11,9 +11,6 @@
     - I'm QHLQY.
 - 来自江苏
     - From Jiangsu Province, China.
-
-## Likes & Attributes
-
 - MTF🏳️‍⚧️ 正在HRT
     - MTF🏳️‍⚧️,HRTing
 
@@ -52,14 +49,17 @@
 
 ## Repository
 
-[![Blog](https://img.shields.io/badge/Blog-Website-blue)](https://546426.vercel.app/)
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QHLQY/QHLQY/output/github-contribution-grid-snake-dark.svg" />
 	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QHLQY/QHLQY/output/github-contribution-grid-snake.svg">
 	<img src="https://raw.githubusercontent.com/QHLQY/QHLQY/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </picture>
 
+![Visits](https://count.getloli.com/@QHLQY?darkmode=auto)
+
 ## Links
+
+[![Blog](https://img.shields.io/badge/Blog-Website-blue)](https://546426.vercel.app/)
 
 [![个人网站](https://img.shields.io/badge/QHLQY-Website-pink)](https://qhlqy.github.io)
 
