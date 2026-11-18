@@ -47,6 +47,8 @@
   <img src="https://github-readme-stats-alpha-ten-96.vercel.app/api/top-langs/?username=QHLQY&layout=compact&hide_border=true" />
 </picture>
 
+![Visits](https://count.getloli.com/@QHLQY?darkmode=auto)
+
 ## Repository
 
 <picture>
@@ -54,8 +56,6 @@
 	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QHLQY/QHLQY/output/github-contribution-grid-snake.svg">
 	<img src="https://raw.githubusercontent.com/QHLQY/QHLQY/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </picture>
-
-![Visits](https://count.getloli.com/@QHLQY?darkmode=auto)
 
 ## Links
 
